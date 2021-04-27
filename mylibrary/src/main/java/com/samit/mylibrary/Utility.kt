@@ -3,7 +3,7 @@ package com.samit.mylibrary
 import android.content.Context
 import android.widget.Toast
 
-class Utility {
+public class Utility {
 
     fun showToast(con : Context, msg : String) : Unit{
 
